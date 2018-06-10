@@ -2,7 +2,7 @@
 @import '~bootstrap/dist/css/bootstrap.min.css';
 body{
   background-color: #202224!important;
-  background: url(assets/img/bg2.gif);
+  /*background: url(assets/img/bg2.gif);*/
   background-size: cover;
 }
 

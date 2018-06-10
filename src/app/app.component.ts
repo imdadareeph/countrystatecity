@@ -15,7 +15,7 @@ export class AppComponent {
   selectedCountry = 0;
   selectedState = 0;
 
-  title = 'Select Country State and City';
+  title = 'Select Country State & City';
   states = [];
   cities = [];
 
