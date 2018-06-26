@@ -9,10 +9,17 @@ body{
 .welcome{
   color: aliceblue;
   text-shadow: 3px 3px 3px #141515;
+  font-size: 2rem;
 }
 
 .bg-video{
+  /*background: url(assets/img/bg2.gif);*/
+  background: url(assets/img/header.jpg);
+  background-size: cover;
+}
+.bg-video2{
   background: url(assets/img/bg2.gif);
+  /*background: url(assets/img/bg.gif);*/
   background-size: cover;
 }
 
@@ -21,7 +28,13 @@ iframe {
         margin-top: 44px !important;
 }
 
+.margintop70{
+  margin-top: 5vh;
+}
 
+.minheight200{
+      min-height: 200px;
+}
 
 /***FOOTER**/
 #myFooter {
