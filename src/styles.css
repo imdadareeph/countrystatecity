@@ -9,7 +9,7 @@ body{
 .welcome{
   color: aliceblue;
   text-shadow: 3px 3px 3px #141515;
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 
 .bg-video{
@@ -20,6 +20,12 @@ body{
 .bg-video2{
   background: url(assets/img/bg2.gif);
   /*background: url(assets/img/bg.gif);*/
+  background-size: cover;
+}
+
+.bg-video3{
+  /*background: url(assets/img/bg2.gif);*/
+  background: url(assets/img/green4.jpg);
   background-size: cover;
 }
 
