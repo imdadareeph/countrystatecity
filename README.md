@@ -5,9 +5,8 @@ This is a demo for selecting country state and city from dropdownlist in Angular
 [DEMO-URL](http://www.imdadareeph.com/countrystatecity/)
 
 # Screenshot
+![alt text](http://i67.tinypic.com/25qpxqx.jpg "preview2")
 ![alt text](http://i66.tinypic.com/1044zna.jpg "preview1")
-![alt text](http://i63.tinypic.com/110jbd5.jpg "preview2")
-![alt text](http://i67.tinypic.com/198o3t.jpg "preview3")
 
 ## Build!
 
